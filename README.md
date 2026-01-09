@@ -6,7 +6,7 @@ Ce projet est une solution matérielle autonome pour contrôler les caméras Son
 Le développement s'est appuyé sur l'analyse de l'API officielle Sony ainsi que sur du reverse engineering.
 
 ### 📚 Documentation Technique
-Les documents officiels de l'API Sony utilisés pour ce projet sont inclus dans ce dépôt pour référence (dossier `docs/`) :
+Les documents officiels de l'API Sony utilisés pour ce projet sont inclus dans ce dépôt pour référence :
 * **[Sony Camera Remote API - API Reference v2.40](docs/Sony%20Camera%20Remote%20API%20-%20API%20Reference%20v2.40.pdf)** : Détail des commandes JSON et des endpoints.
 * **[Sony Camera Remote API Development Guide](docs/Sony%20Camera%20Remote%20API%20Development%20Guide.pdf)** : Guide de mise en œuvre du protocole.
 
@@ -20,4 +20,4 @@ Les documents officiels de l'API Sony utilisés pour ce projet sont inclus dans 
 [▶️ Voir la démonstration vidéo sur YouTube](COLLE_TON_LIEN_YOUTUBE_ICI)
 
 ### 📄 Licence
-Ce projet est sous licence **GNU GPLv3**. Vous êtes libres d'utiliser, modifier et redistribuer ce logiciel, à condition de créditer l'auteur et de conserver la même licence libre pour les travaux dérivés.
+Ce projet est sous licence **GNU GPLv3**. Vous êtes libres d'utiliser, modifier et redistribuer ce logiciel, à condition de me créditer et de conserver la même licence libre pour les travaux dérivés.

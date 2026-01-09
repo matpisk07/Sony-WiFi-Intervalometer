@@ -12,7 +12,7 @@ Les documents officiels de l'API Sony utilisés pour ce projet sont inclus dans 
 
 ### ⚙️ Implémentation Technique
 * **Hardware :** Arduino Nano ESP32 (ESP32-S3) + Écran LCD 16x2.
-* **Connectivité :** L'ESP32 crée un **Portail Captif** (Mode AP). L'utilisateur configure le timelapse via une page web stockée dans la mémoire du microcontrôleur (SPIFFS/LittleFS).
+* **Connectivité :** L'ESP32 crée un **Portail Captif** (Mode AP). L'utilisateur configure le timelapse via une page web **embarquée directement dans le firmware** (Hardcoded HTML), ce qui rend le déploiement simple et sans dépendance de fichiers externes.
 * **Protocole :** Envoi de requêtes HTTP POST avec des payloads JSON (ex: `setShootMode`, `actTakePicture`) directement vers l'API de la caméra.
 * **Fonctionnalité :** Calcul automatique de la durée totale et feedback en temps réel sur l'écran LCD.
 

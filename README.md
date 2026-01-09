@@ -1,7 +1,7 @@
 # 📸 Intervallomètre WiFi pour Sony RX100
 
 ### 📝 Description du projet
-Ce projet est une solution matérielle autonome pour contrôler les caméras Sony (testé sur RX100M2) via WiFi, contournant les limitations de l'application mobile propriétaire.
+Ce projet est une solution matérielle autonome pour contrôler les caméras Sony (testé sur RX100M2 uniquement) via WiFi, contournant les limitations de l'application mobile propriétaire.
 
 Le développement s'est appuyé sur l'analyse de l'API officielle Sony ainsi que sur du reverse engineering.
 

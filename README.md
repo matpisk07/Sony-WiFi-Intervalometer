@@ -17,7 +17,7 @@ Les documents officiels de l'API Sony utilisés pour ce projet sont inclus dans 
 * **Fonctionnalité :** Calcul automatique de la durée totale et feedback en temps réel sur l'écran LCD.
 
 ### 📺 Démo Vidéo
-[▶️ Voir la démonstration vidéo sur YouTube](COLLE_TON_LIEN_YOUTUBE_ICI)
+[▶️ Voir la démonstration vidéo sur YouTube](https://youtu.be/QnyCpHmKMt4)
 
 ### 📄 Licence
 Ce projet est sous licence **GNU GPLv3**. Vous êtes libres d'utiliser, modifier et redistribuer ce logiciel, à condition de me créditer et de conserver la même licence libre pour les travaux dérivés.
